@@ -63,6 +63,7 @@ class lookup(object):
                          'SPF',
                          'SRV',
                          'TXT',
+                         'CAA',
                          'AAAA']
 
     # Update the resolver list every 14 days
